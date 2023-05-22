@@ -36,7 +36,7 @@
   
   <div key="4">
   <h3 style ="font-size : 2em; font-weight:700;">🍀Tech Stack🍀</h3>
-    <div ><h3 key=0 style ="font-size : 1.5em; font-weight:700;">FE</h3><div "><img
+    <div ><h3 key=0 style ="font-size : 1.5em; font-weight:700;">Front-end</h3><div "><img
           key=27590.44854470071
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/javascript-f1e05a?style=flat&logo=javascript&logoColor=white
@@ -81,7 +81,7 @@
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/css-563d7c?style=flat&logo=css&logoColor=white
           alt=""
-        /></div><h3 key=1 style ="font-size : 1.5em; font-weight:700;">BE</h3><div "><img
+        /></div><h3 key=1 style ="font-size : 1.5em; font-weight:700;">Back-end</h3><div "><img
           key=798525.1894844556
           style = "margin: 5px 5px;"
           src=https://img.shields.io/badge/python-3581ba?style=flat&logo=python&logoColor=white
